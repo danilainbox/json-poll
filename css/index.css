@@ -1,0 +1,27 @@
+.poll {
+    max-width: 600px;
+    padding: 40px 15px 0;
+    margin: 0 auto;
+}
+
+.question {
+    padding-bottom: 50px;
+}
+
+.question__range-value {
+    font-size: 24px;
+    text-align: center;
+}
+
+.question__header {
+    margin: 0 0 30px;
+}
+
+.question__btn {
+    margin-top: 20px;
+}
+
+.loader {
+    padding-top: 10px;
+    font-size: 24px;
+}
